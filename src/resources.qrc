@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>resources/New image.png</file>
+        <file>resources/Save.png</file>
+        <file>resources/arrow_plain_blue_NE_SE_SW_NW.png</file>
+        <file>resources/Refresh.png</file>
+        <file>resources/Undo.png</file>
+        <file>resources/Redo.png</file>
+        <file>resources/Brush.png</file>
+        <file>resources/Eraser.png</file>
+        <file>resources/Apply.png</file>
+        <file>resources/Folder.png</file>
+        <file>resources/Delete.png</file>
+        <file>resources/Close file.png</file>
+    </qresource>
+</RCC>
