@@ -1,6 +1,6 @@
 # Image Mosaic Maker
 
-C++ application for creating mosaics out of a large number of small images resembling some larger image. 
+Application for creating mosaics out of a large number of small images. 
 
 ### External libraries:
 
