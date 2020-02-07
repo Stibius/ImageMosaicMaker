@@ -1,6 +1,6 @@
 # Image Mosaic Maker
 
-Application for creating mosaics out of a large number of small images. 
+Application for creating mosaics out of a large number of small images which together resemble some other image. 
 
 ### External libraries:
 
